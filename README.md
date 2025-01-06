@@ -1,3 +1,6 @@
+# 사이트 링크
+https://github.com/straussmaximilian/pandas-ai-streamlit
+
 # pandas-ai-streamlit
 A streamlit interface for pandas-ai
 
